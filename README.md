@@ -34,7 +34,9 @@ To run the app on your local machine:
 
 ## Video Walkthrough
 
-<img src="https://github.com/user-attachments/assets/a44a4b7f-7ea6-4803-95f5-7dd6d2d777dc" alt="Demo" width="400"/>
+
+![Simulator Screen Recording - iPhone 15 Pro - 2024-07-13 at 21 23 29](https://github.com/user-attachments/assets/302315ca-bd10-4792-a7e9-b83ffd8e745a)
+
 
 
 ## License
