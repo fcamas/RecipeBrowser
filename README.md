@@ -34,7 +34,8 @@ To run the app on your local machine:
 
 ## Video Walkthrough
 
-![Demo](https://github.com/fcamas/TaskApp/assets/76220782/8a225285-25ff-4acc-a29b-2ca563dfb5b8)
+<img src="https://github.com/user-attachments/assets/a44a4b7f-7ea6-4803-95f5-7dd6d2d777dc" alt="Demo" width="400"/>
+
 
 ## License
 
